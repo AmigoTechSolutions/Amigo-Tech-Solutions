@@ -862,7 +862,7 @@ footer {
   }
 
   .service {
-    width: 400px; /* Reduce service box width for smaller screens */
+    width: 270px; /* Reduce service box width for smaller screens */
   }
 
   /* 📌 Contact Section */
@@ -969,7 +969,7 @@ footer {
 
   /* 🛠️ Services Section */
   .service {
-    width: 150px; /* Further reduce service box width for very small screens */
+    width: 250px; /* Further reduce service box width for very small screens */
   }
 
   /* 📌 Contact Section */
