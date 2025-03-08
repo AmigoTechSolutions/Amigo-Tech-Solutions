@@ -862,7 +862,7 @@ footer {
   }
 
   .service {
-    width: 200px; /* Reduce service box width for smaller screens */
+    width: 400px; /* Reduce service box width for smaller screens */
   }
 
   /* 📌 Contact Section */
